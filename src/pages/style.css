@@ -1,0 +1,14 @@
+
+  .container {
+    background-color: pink;
+  }
+  
+  .barCompleted {
+    background-color: lightblue;
+    width: 10%;
+  }
+  
+  .label {
+    font-size: 10px;
+    color: green;
+  }
