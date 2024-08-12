@@ -1,12 +1,17 @@
 import React from 'react';
 import saksham from "../assets/saksham.jpg";
-import priyanshu from "../assets/Priyanshu.jpeg";
+import anushka from "../assets/anushka.jpg";
 // Define team members with image URLs
 const teamMembers = [
   {
     name: 'Saksham Soni',
     role: 'Elderly ways',
     image: saksham,
+  },
+  {
+    name: 'Anushka Pal',
+    role: 'Elderly ways',
+    image: anushka,
   },
   
   
