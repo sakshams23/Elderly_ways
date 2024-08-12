@@ -1,6 +1,6 @@
 import React from 'react';
 import saksham from "../assets/saksham.jpg";
-import anushka from "../assets/anushka.jpg";
+import anushka from "../assets/anushka.jpeg";
 // Define team members with image URLs
 const teamMembers = [
   {
