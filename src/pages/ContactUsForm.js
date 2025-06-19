@@ -49,13 +49,13 @@ const ContactUsForm = () => {
             <p>
               <strong>Phone Number:</strong>
               <br />
-              (+91) 8542869570
+              (+91) 7827917472
             </p>
             <br></br>
             <p>
               <strong>Email Address:</strong>
               <br />
-              sonisaksham931@gmail.com
+              apanupal28@gmail.com
             </p>
           </div>
         </div>
